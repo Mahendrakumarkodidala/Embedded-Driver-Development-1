@@ -1,0 +1,8 @@
+../Src/Project_RTC_LCD.c:18:13:mdelay	24	static
+../Src/Project_RTC_LCD.c:24:6:init_systick_timer	32	static
+../Src/Project_RTC_LCD.c:48:7:get_day_of_week	56	static
+../Src/Project_RTC_LCD.c:56:6:number_to_string	16	static
+../Src/Project_RTC_LCD.c:71:7:time_to_string	16	static
+../Src/Project_RTC_LCD.c:89:7:date_to_string	16	static
+../Src/Project_RTC_LCD.c:110:5:main	24	static
+../Src/Project_RTC_LCD.c:186:6:SysTick_Handler	24	static

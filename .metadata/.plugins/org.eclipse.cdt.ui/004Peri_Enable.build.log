@@ -1,0 +1,10 @@
+20:08:53 **** Incremental Build of configuration Debug for project 004Peri_Enable ****
+make -j16 all 
+arm-none-eabi-size  004Peri_Enable.elf 
+   text	   data	    bss	    dec	    hex	filename
+    684	      8	   1568	   2260	    8d4	004Peri_Enable.elf
+Finished building: default.size.stdout
+ 
+
+20:08:53 Build Finished. 0 errors, 0 warnings. (took 270ms)
+

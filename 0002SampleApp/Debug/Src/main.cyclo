@@ -1,0 +1,6 @@
+../Src/main.c:27:6:array_fill_numbers	2
+../Src/main.c:37:6:display_numbers	2
+../Src/main.c:50:6:swap_numbers	1
+../Src/main.c:66:6:bubble_sort	5
+../Src/main.c:89:6:insertion_sort	4
+../Src/main.c:114:5:main	1
